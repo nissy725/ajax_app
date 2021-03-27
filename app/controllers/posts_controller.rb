@@ -17,3 +17,5 @@ class PostsController < ApplicationController
     render json: { post: item }
   end
 end
+
+#test
